@@ -1,4 +1,4 @@
-# Git-Sim
+# Git-Simulation
 Create a dummy software where everyone should have  
 - own branch  
 - own github account  
