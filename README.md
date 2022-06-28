@@ -5,7 +5,7 @@ Create a dummy software where everyone should have
 - everyone made a pull request  
 - try updating your local branch using git pull
 
-#Members
+Members
 - Cantuba, Hazel Grace
 - Bulala, Unicalyn
 - Frilles, Client Steven
